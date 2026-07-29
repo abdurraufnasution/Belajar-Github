@@ -1,0 +1,2 @@
+# Belajar-Github
+Repository pertama
