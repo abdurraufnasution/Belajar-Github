@@ -2,6 +2,9 @@ FRONTEND DEVELOPMENT
 - Belajar HTML
 - Belajar CSS
 - Belajar Javascript
+  *ES6
+  *Framework Javascript
+    1   Vue
 - Belajar Github
 - Memmbuat project
 - Interview
