@@ -4,7 +4,8 @@ FRONTEND DEVELOPMENT
 - Belajar Javascript
   *ES6
   *Framework Javascript
-    1   Vue
+    1 Vue
+    2 React
 - Belajar Github
 - Memmbuat project
 - Interview
