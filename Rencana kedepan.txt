@@ -1,5 +1,7 @@
-RENCANA KEDEPAN
-- Web development
+FRONTEND DEVELOPMENT
+- Belajar HTML
+- Belajar CSS
+- Belajar Javascript
 - Belajar Github
 - Memmbuat project
 - Interview
