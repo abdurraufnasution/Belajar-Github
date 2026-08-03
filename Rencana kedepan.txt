@@ -1,4 +1,5 @@
 RENCANA KEDEPAN
 - Web development
+- Belajar Github
 - Memmbuat project
 - Interview
